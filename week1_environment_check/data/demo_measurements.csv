@@ -1,0 +1,9 @@
+sample_id,group,sequence_id,fluorescence,od600
+S01,control,seq_001_promoter_like,1200,0.82
+S02,control,seq_002_AT_rich,980,0.79
+S03,control,seq_003_GC_rich,1500,0.85
+S04,treatment,seq_001_promoter_like,2100,0.81
+S05,treatment,seq_002_AT_rich,1300,0.80
+S06,treatment,seq_003_GC_rich,2600,0.87
+S07,treatment,seq_004_mixed,2400,0.84
+S08,control,seq_005_short,900,0.78

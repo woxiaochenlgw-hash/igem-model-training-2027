@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 环境与密钥
+.env
+*.env
+*.pem
+*.key
+*.token
+secrets/
+credentials/
+
+# 临时文件与缓存
+tmp/
+temp/
+cache/
+
+# 压缩包与大文件
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Conda / virtualenv
+.conda/
+.venv/
+venv/
+env/

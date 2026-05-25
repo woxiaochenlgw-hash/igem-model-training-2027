@@ -1,0 +1,15 @@
+name: igem_model_training
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - biopython
+  - jupyterlab
+  - notebook
+  - pip
