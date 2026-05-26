@@ -1,0 +1,6 @@
+sequence_id,length,GC_count,GC_percent
+seq_001_promoter_like,14,7,50.0
+seq_002_AT_rich,10,0,0.0
+seq_003_GC_rich,8,8,100.0
+seq_004_mixed,10,6,60.0
+seq_005_short,4,2,50.0
