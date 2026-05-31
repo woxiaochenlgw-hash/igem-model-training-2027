@@ -1,0 +1,9 @@
+sequence_id,length,GC_count,GC_percent,sample_id,group,fluorescence,od600,normalized_fluorescence
+seq_001_promoter_like,14,7,50.0,S01,control,1200,0.82,1463.4146341463415
+seq_002_AT_rich,10,0,0.0,S02,control,980,0.79,1240.506329113924
+seq_003_GC_rich,8,8,100.0,S03,control,1500,0.85,1764.7058823529412
+seq_001_promoter_like,14,7,50.0,S04,treatment,2100,0.81,2592.5925925925926
+seq_002_AT_rich,10,0,0.0,S05,treatment,1300,0.8,1625.0
+seq_003_GC_rich,8,8,100.0,S06,treatment,2600,0.87,2988.5057471264367
+seq_004_mixed,10,6,60.0,S07,treatment,2400,0.84,2857.1428571428573
+seq_005_short,4,2,50.0,S08,control,900,0.78,1153.8461538461538
