@@ -1,0 +1,5 @@
+pair_id,algorithm,match,mismatch,gap,score,aligned_seq1,aligned_seq2
+pair_001,Smith-Waterman,1,-1,-2,2,AT,AT
+pair_002,Smith-Waterman,1,-1,-2,2,AC,AC
+pair_003,Smith-Waterman,1,-1,-2,4,ACGT,ACGT
+pair_004,Smith-Waterman,1,-1,-2,4,ATG-CGT,ATGACGT
