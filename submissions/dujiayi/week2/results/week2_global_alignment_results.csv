@@ -1,0 +1,5 @@
+pair_id,algorithm,match,mismatch,gap,score,aligned_seq1,aligned_seq2
+pair_001,Needleman-Wunsch,1,-1,-2,-1,GATTACA,GCATGCU
+pair_002,Needleman-Wunsch,1,-1,-2,-1,ACCGT,A-CG-
+pair_003,Needleman-Wunsch,1,-1,-2,0,TTACGTAA,GGACGTCC
+pair_004,Needleman-Wunsch,1,-1,-2,3,ATG-CGTAC,ATGACGT-C
